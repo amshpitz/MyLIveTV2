@@ -175,29 +175,29 @@ http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 http://iptv.am000.tv:8000/live/00008/00008/293.ts
 ###################################################################################################
 ###################################################################################################
-#EXTINF:-1 group-title=”Canal 2 HD” tvg-logo=”http://y.cdn.entutele.com/media/channels/medium/canal-2-hd.gif”,Canal 2 HD
+#EXTINF:-1 group-title=?LATINOS?,Canal 2 HD
 http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
-#EXTINF:-1 group-title=”Foro TV HD” tvg-logo=”http://z.cdn.entutele.com/media/channels/medium/foro-tv-hd.gif”,Foro TV HD
+#EXTINF:-1 group-title=?LATINOS?,Foro TV HD
 http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
-#EXTINF:-1 group-title=”Canal 5 HD” tvg-logo=”http://y.cdn.entutele.com/media/channels/medium/canal-5-hd.gif”,Canal 5 HD
+#EXTINF:-1 group-title=?LATINOS?,Canal 5 HD
 http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
-#EXTINF:-1 group-title=”Azteca 7 HD” tvg-logo=”http://x.cdn.entutele.com/media/channels/medium/azteca-7-hd.gif”,Azteca 7 HD
+#EXTINF:-1 group-title=?LATINOS?,Azteca 7 HD
 http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
-#EXTINF:-1 group-title=”Gala TV HD” tvg-logo=”http://x.cdn.entutele.com/media/channels/medium/gala-tv-hd.gif”,Gala TV HD
+#EXTINF:-1 group-title=?LATINOS?,Gala TV HD
 http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
-#EXTINF:-1 group-title=”Once TV” tvg-logo=”http://z.cdn.entutele.com/media/channels/medium/once-tv.gif”,Once TV
+#EXTINF:-1 group-title=?LATINOS?,Once TV
 http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
-#EXTINF:-1 group-title=”El trece HD” tvg-logo=”http://y.cdn.entutele.com/media/channels/medium/el-trece-hd.gif”,El trece HD
+#EXTINF:-1 group-title=?LATINOS?,El trece HD
 http://200.76.77.237/LIVE/H01/CANAL113/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
-#EXTINF:-1 group-title=”Proyecto 40 HD” tvg-logo=”http://z.cdn.entutele.com/media/channels/medium/proyecto-40-hd.gif”,Proyecto 40 HD
+#EXTINF:-1 group-title=?LATINOS?,Proyecto 40 HD
 http://200.76.77.237/LIVE/H01/CANAL140/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
-#EXTINF:-1 group-title=”TeleFórmula” tvg-logo=”http://y.cdn.entutele.com/media/channels/medium/teleformula.gif”,TeleFórmula
+#EXTINF:-1 group-title=?LATINOS?,TeleFórmula
 http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
-#EXTINF:-1 group-title=”Multimedios Monterrey” tvg-logo=”http://z.cdn.entutele.com/media/channels/medium/multimedios-monterrey.gif”,Multimedios Monterrey
+#EXTINF:-1 group-title=?LATINOS?,Multimedios Monterrey
 http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
-#EXTINF:-1 group-title=”Fox HD” tvg-logo=”http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif”,Fox HD
+#EXTINF:-1 group-title=?LATINOS?,Fox HD
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
-#EXTINF:-1 group-title=”Sony HD” tvg-logo=”http://z.cdn.entutele.com/media/channels/medium/sony-hd.gif”,Sony HD
+#EXTINF:-1 group-title=?LATINOS?,Sony HD
 http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 group-title=”Warner HD” tvg-logo=”http://z.cdn.entutele.com/media/channels/medium/warner-hd.gif”,Warner HD
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
