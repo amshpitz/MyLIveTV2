@@ -1,0 +1,370 @@
+#EXTM3U
+###########################################################################################
+#EXTINF:11 logo="http://anarchitv.co/TV/Logos/1.png" channel-id="11" epg-id="11" group-title="Israel" tvg-logo="1.png",HD הערוץ הראשון [B][COLOR lime] ישראל - [/COLOR][/B]
+http://82.80.192.28:1935/iba_channel-511BRepeat/_definst_/smil:channel-511B.high.smil/manifest.m3u8
+
+#EXTINF:10 logo="http://anarchitv.co/TV/Logos/10.png" channel-id="10" epg-id="10" group-title="Israel" tvg-logo="10.png",HD ערוץ 10 [B][COLOR lime] ישראל - [/COLOR][/B]
+http://anarchitv.co/tvv/ch10grabber.m3u8
+
+#EXTINF:22 logo="http://anarchitv.co/TV/Logos/2.png" aspect-ratio=16:9 channel-id="22" epg-id="22" group-title="Israel" tvg-logo="2.png", ערוץ 22  [B][COLOR lime] ישראל - [/COLOR][/B]
+http://anarchitv.co/tvv/2livek.m3u8
+
+#EXTINF:20 logo="http://anarchitv.co/TV/Logos/20.png" channel-id="20" epg-id="20" group-title="Israel" tvg-logo="20.png",ערוץ 20 [B][COLOR lime] ישראל - [/COLOR][/B]
+http://anarchitv.co/ch20il.m3u8
+
+#EXTINF:9 logo="http://anarchitv.co/TV/Logos/9.png" channel-id="9" epg-id="9" group-title="Israel" tvg-logo="9.png",ישראל 9 [B][COLOR lime] ישראל - [/COLOR][/B]
+http://anarchitv.co/tvv/3.m3u8
+
+#EXTINF:55 logo="http://anarchitv.co/TV/Logos/5.png" channel-id="55" epg-id="55" group-title="Israel" tvg-logo="5.png",ספורט 5 מובייל [B][COLOR lime] ישראל - [/COLOR][/B]
+http://62.90.90.37:1935/sport5_LiveIsraelRepeat/_definst_/smil:LiveIsrael.smil/media.m3u8
+
+#EXTINF:333 logo="http://anarchitv.co/TV/Logos/2news.png" channel-id="333" epg-id="333" group-title="Israel" tvg-logo="2news.png",ערוץ חדשות 2 [B][COLOR lime] ישראל - [/COLOR][/B]
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+
+#EXTINF:33 logo="http://anarchitv.co/TV/Logos/33.png" channel-id="33" epg-id="33" group-title="Israel" tvg-logo="33.png",ערוץ 33 [B][COLOR lime] ישראל - [/COLOR][/B]
+http://82.80.192.27/iba_channel-33MRepeat/_definst_/smil:channel-33M.smil/playlist.m3u8
+
+#EXTINF:24 logo="http://anarchitv.co/TV/Logos/24.png" channel-id="24" epg-id="24" group-title="Israel" tvg-logo="24.png",ערוץ המוזיקה [B][COLOR lime] ישראל - [/COLOR][/B]
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
+
+#EXTINF:99 logo="http://anarchitv.co/TV/Logos/99.png" channel-id="99" epg-id="99" group-title="Israel" tvg-logo="99.png",ערוץ הכנסת 99 [B][COLOR lime] ישראל - [/COLOR][/B]
+mmsh://212.235.5.241/knessetlive
+
+########################################################
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/discovery.png" group-title="Documentary" tvg-logo="discovery.png",Discovery HD -R/E [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://194.8.147.146:4022/udp/239.0.0.119:4000 
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/Investigation%20Discovery.png" group-title="Documentary" tvg-logo="Investigation%20Discovery.png",Investigation Discovery -R/E [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://194.8.147.146:4022/udp/239.0.0.136:4000 
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/animalplanet.png" group-title="Documentary" tvg-logo="animalplanet.png",Animal Planet -R/E [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://195.228.11.89:4080/udp/225.255.255.64:10000
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/nationalgeographicwild.png" group-title="Documentary" tvg-logo="nationalgeographicwild.png", National Geo Wild -R/E [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://194.8.147.146:4022/udp/239.0.0.51:4000
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/nationalgeographic.png" group-title="Documentary" tvg-logo="nationalgeographic.png", National Geographic -R/E [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://194.8.147.146:4022/udp/239.0.0.35:4000
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/historychannel.png" group-title="Documentary" tvg-logo="historychannel.png", History Channel R/E [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://194.8.147.146:4022/udp/239.0.1.160:4000 
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/CBS%20Reality.png" group-title="Documentary" tvg-logo="CBS%20Reality.png", CBS Reality R/E [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://194.8.147.146:4022/udp/239.0.0.91:4000 
+
+#EXTINF:331 logo="http://anarchitv.co/TV/Logos/RT%20Documentary.png" channel-id="331" epg-id="331" group-title="Documentary" tvg-logo="RT%20Documentary.png", RT Documentary [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/travelchannel.png" group-title="Documentary" tvg-logo="travelchannel.png", Travel [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://82.76.249.33/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-online.ro&t=00000000000000000000000000000000
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/ufoTV.png" group-title="Documentary" tvg-logo="ufoTV.png", UFO Channel [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://veetle.com/index.php/hls/streamMbrfast/5570083766031_/stream.m3u8
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/twittv.png" group-title="Documentary" tvg-logo="twittv.png", TWiT Live [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/NASA.png" group-title="Documentary" tvg-logo="NASA.png", NASA TV [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/worldfashion.png" group-title="Documentary" tvg-logo="worldfashion.png", ערוץ האופנה העולמי [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/AtTheDrive-In.png" group-title="Documentary" tvg-logo="AtTheDrive-In.png", At The Drive-In [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
+##############################################################################################
+###############################################################################################
+#EXTINF:-1 group-title="Music",MTV Hits [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://194.8.147.146:4022/udp/239.0.0.205:4000 
+
+#EXTINF:-1 group-title="Music",MTV Rocks [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://5.135.139.145:80/MTV_Rocks/mono.m3u8
+
+#EXTINF:-1 group-title="Music",MTV Dance [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://194.8.147.146:4022/udp/239.0.0.80:4000
+
+#EXTINF:-1 group-title="Music", Amazing TV [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+
+#EXTINF:946 logo="http://anarchitv.co/TV/Logos/Heart%20TV.png" channel-id="946" epg-id="946" group-title="Music" tvg-logo="Heart%20TV.png",Heart TV [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/Heart220TV.png" group-title="Music" tvg-logo="Heart220TV.png",NRJ Music [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/Heart220TV.png" group-title="Music" tvg-logo="Heart220TV.png",DJ TV [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://www.iptvsaga.com/play/tv3/0086.m3u8
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/Heart220TV.png" group-title="Music" tvg-logo="Heart220TV.png",Rock HITS [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://buecrplb01.cienradios.com.ar/Rock_Hits_32000.aac
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/M2O.png" group-title="Music" tvg-logo="M2O.png",M2o Music [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8 
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/VH1.png" group-title="Music" tvg-logo="VH1.png",VH1 [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://194.8.147.146:4022/udp/239.0.0.58:4000
+
+#EXTINF:-1 group-title="Music",VH1 Classic [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://194.8.147.146:4022/udp/239.0.0.44:4000 
+
+#EXTINF:-1 group-title="Music", Vox Music [B][COLOR blue] מוזיקה - [/COLOR][/B]
+rtmp://stream.smcloud.net/live/vox2/stream1
+ 
+#EXTINF:-1 group-title="Music", Vox Old s Cool [B][COLOR blue] מוזיקה - [/COLOR][/B]
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/VEVO1.png" group-title="Music" tvg-logo="VEVO1.png",Vevo1 HD [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/VEVO2.png" group-title="Music" tvg-logo="VEVO2.png",Vevo2 HD [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/VEVO3.png" group-title="Music" tvg-logo="VEVO3.png",Vevo3 HD [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/RADIO%20538.png" group-title="Music" tvg-logo="RADIO%20538.png", Radio 538 [NL] [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
+
+#EXTINF:0 logo="http://anarchitv.co/TV/Logos/bigpond%20music.png" group-title="Music" tvg-logo="bigpond%20music.png", Big Pond Music [B][COLOR blue] מוזיקה - [/COLOR][/B]
+mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/Capital.png" group-title="Music" tvg-logo="Capital.png", Capital [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/For%20Music.png" group-title="Music" tvg-logo="For%20Music.png", For Music [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
+
+#EXTINF:0 logo="http://anarchitv.co/TV/Logos/Virgin%20TV.png" group-title="Music" tvg-logo="Virgin%20TV.png", Virgin TV [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://anarchitv.co/virgintv.m3u8
+
+#EXTINF:0 logo="http://anarchitv.co/TV/Logos/Radio%20105%20TV.png" group-title="Music" tvg-logo="Radio%20105%20TV.png", Radio 105 TV [B][COLOR blue] מוזיקה - [/COLOR][/B]
+rtmp://fms.105.net:1935/live/105Test1#gfgyut9991.ch?token=0.861700,1.03854
+
+#EXTINF:0 logo="http://anarchitv.co/TV/Logos/Radio%20Monte%20Carlo%20TV.png" group-title="Music" tvg-logo="Radio%20Monte%20Carlo%20TV.png", Radio Monte Carlo TV [B][COLOR blue] מוזיקה - [/COLOR][/B]
+rtmp://fms.105.net:1935/live/rmc1
+
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/Eu%20Music.png" group-title="Music" tvg-logo="Eu%20Music.png", Eu Music [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://play.lanet.tv/live/9025.m3u8
+
+##############################################################################################
+###############################################################################################
+#EXTINF:-1 group-title="News",BBC World [B][COLOR yellow] חדשות - [/COLOR][/B]
+http://37.235.186.133:4022/udp/225.50.66.21:1234
+
+#EXTINF:-1 group-title="News",Fox News [B][COLOR yellow] חדשות - [/COLOR][/B]
+http://iptvbox.noip.us:9998/live/mile/skype/727.ts
+
+#EXTINF:-1 group-title="News", Weather Channel US [B][COLOR yellow] חדשות - [/COLOR][/B]
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 group-title="News", EuroNews English [B][COLOR yellow] חדשות - [/COLOR][/B]
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
+
+#EXTINF:-1 group-title="News", ABC News [B][COLOR yellow] חדשות - [/COLOR][/B]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1 group-title="News", Bloomberg [B][COLOR yellow] חדשות - [/COLOR][/B]
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:-1 group-title="News", Deutsche Welle [B][COLOR yellow] חדשות - [/COLOR][/B]
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+
+##############################################################################################
+###############################################################################################
+#EXTINF:-1 group-title="Sport",LIVE TV SPORT  [B][COLOR green] ספורט - [/COLOR][/B]
+plugin://plugin.video.castaway/?mode=open_live_tv&amp;site=crichd
+#EXTINF:-1 group-title="Sport",ספורט 1 [B][COLOR green] ספורט - [/COLOR][/B]
+http://hotwowza.onecoil.netdna-cdn.com/live1/ngrp:aa9dae09a8170bed910aa6a18fdc618a_all/chunklist_b548304.m3u8
+#EXTINF:-1 group-title="Sport",ספורט 2 [B][COLOR green] ספורט - [/COLOR][/B]
+https://video06-atl.streamup.com/app/zomoasxc2s-stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="Sport",ספורט 5 HD [B][COLOR green] ספורט - [/COLOR][/B]
+http://31.168.228.113:1935/sport5_LiveIsraelRepeat/_definst_/smil:LiveIsrael.smil/media.m3u8
+#EXTINF:-1 group-title="Sport",One ערוץ [B][COLOR green] ספורט - [/COLOR][/B]
+http://31.168.228.113:1935/sport5_LiveIsraelRepeat/_definst_/smil:LiveIsrael.smil/media.m3u8
+
+#EXTINF:-1 group-title="Sport",Sky Sports 1 TEST [B][COLOR green] ספורט - [/COLOR][/B]
+http://93.115.7.197:8081/liverepeater/55c254f3bcd94/index.m3u8?wmsAuthSign=c2Vy
+
+#EXTINF:-1 group-title="Sport",Sky Sports 1 [B][COLOR green] ספורט - [/COLOR][/B]
+plugin://plugin.video.SportsDevil/?item=title.tmp%3dSkysports%2b1%26catcher%3dstreams%26title%3dSky%2bSports%2b1%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-sky-sports-1-live-streaming-free-1.html%26videoTitle%3dSky%2bSports%2b1%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252Fsky.png%26type%3drss%26icon%3dC%253A%255CUsers%255CAmos%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Cchannels%252Fsky_uk_sports1.png&amp;mode=1
+
+#EXTINF:-1 group-title="Sport",Sky Sports 2 [B][COLOR green] ספורט - [/COLOR][/B]
+plugin://plugin.video.SportsDevil/?item=title.tmp%3dSkysports%2b2%26catcher%3dstreams%26title%3dSky%2bSports%2b2%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-sky-sports-2-live-streaming-free-1.html%26videoTitle%3dSky%2bSports%2b2%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252Fsky.png%26type%3drss%26icon%3dC%253A%255CUsers%255CAmos%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Cchannels%252Fsky_uk_sports2.png&amp;mode=1
+
+#EXTINF:-1 group-title="Sport",Sky Sports 3 [B][COLOR green] ספורט - [/COLOR][/B]
+plugin://plugin.video.SportsDevil/?item=title.tmp%3dSkysports%2b3%26catcher%3dstreams%26title%3dSky%2bSports%2b3%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-sky-sports-3-live-stream-1.html%26videoTitle%3dSky%2bSports%2b3%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252Fsky.png%26type%3drss%26icon%3dC%253A%255CUsers%255CAmos%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Cchannels%252Fsky_uk_sports3.png&amp;mode=1
+
+#EXTINF:-1 group-title="Sport",Sky Sports 4 [B][COLOR green] ספורט - [/COLOR][/B]
+plugin://plugin.video.SportsDevil/?item=title.tmp%3dSkysports%2b4%26catcher%3dstreams%26title%3dSky%2bSports%2b4%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-sky-sports-4-live-stream-free-1.html%26videoTitle%3dSky%2bSports%2b4%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252Fsky.png%26type%3drss%26icon%3dC%253A%255CUsers%255CAmos%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Cchannels%252Fsky_uk_sports4.png&amp;mode=1
+
+#EXTINF:-1 group-title="Sport",Sky Sports 5 [B][COLOR green] ספורט - [/COLOR][/B]
+plugin://plugin.video.SportsDevil/?item=title.tmp%3dSkysports%2b5%26catcher%3dstreams%26title%3dSky%2bSports%2b5%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-sky-sports-5-live-stream-1.html%26videoTitle%3dSky%2bSports%2b5%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252Fsky.png%26type%3drss%26icon%3dC%253A%255CUsers%255CAmos%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Cchannels%252Fsky_uk_sports5.png&amp;mode=1
+
+#EXTINF:-1 group-title="Sport",BeIn 1 FR [B][COLOR green] ספורט - [/COLOR][/B]
+plugin://plugin.video.SportsDevil/?item=title.tmp%3dBeIn%2b1%2bFR%26catcher%3dstreams%26title%3dBeIn%2b1%2bFR%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-bein-1-france-live-stream-1.html%26videoTitle%3dBeIn%2b1%2bFR%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252F137.png%26type%3drss%26icon%3dC%253A%255CUsers%255CAmos%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Cchannels%252FBeIn%2b1%2bFR&amp;mode=1
+
+#EXTINF:-1 group-title="Sport",BeIn 2 FR [B][COLOR green] ספורט - [/COLOR][/B]
+plugin://plugin.video.SportsDevil/?item=title.tmp%3dBeIn%2b2%2bFR%26catcher%3dstreams%26title%3dBeIn%2b2%2bFR%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-bein-2-france-live-stream-1.html%26videoTitle%3dBeIn%2b2%2bFR%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252F138.png%26type%3drss%26icon%3dC%253A%255CUsers%255CAmos%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Cchannels%252FBeIn%2b2%2bFR&amp;mode=1
+
+#EXTINF:-1 group-title="Sport",Arena Sports 1 [B][COLOR green] ספורט - [/COLOR][/B]
+plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vNzkuMTQzLjgzLjkwOjg2MDAvQVJFTkExL1NQT1JUUy9pbmRleC5tM3U4P3Rva2VuPU56Um1aR0ppTldFeU1qZGlZVFZtT0dZMk1tUTBPR0ZqTURJM05ESTVNVEk2TVRRMU9EWXpPRGs0TXc9PQ%3D%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DArena+sports+1+v8%5B%2FCOLOR%5D
+###############################################################################################
+#EXTINF:-1 group-title="Sport",BOX NATION [B][COLOR green] ספורט - [/COLOR][/B]
+http://iptvbox.noip.us:9998/live/mile/skype/560.m3u8
+#EXTINF:-1 group-title="Sport",Eurosport 1 HD R/E[B][COLOR green] ספורט - [/COLOR][/B]
+http://194.8.147.146:4022/udp/239.0.0.195:4000 
+#EXTINF:-1 group-title="Sport",Eurosport 1 R/E[B][COLOR green] ספורט - [/COLOR][/B]
+http://194.8.147.146:4022/udp/239.0.0.33:4000 
+#EXTINF:-1 group-title="Sport",Eurosport 2 R/E[B][COLOR green] ספורט - [/COLOR][/B]
+http://anarchitv.co/e2
+#EXTINF:-1 group-title="Sport",FOX SPORT USA [B][COLOR green] ספורט - [/COLOR][/B]
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
+
+#EXTINF:-1 group-title="Sport",UK BT Sport 1 HD [B][COLOR green] ספורט - [/COLOR][/B]
+http://anarchitv.co/bt1.m3u8
+#EXTINF:-1 group-title="Sport",UK BT Sport 2 HD [B][COLOR green] ספורט - [/COLOR][/B]
+http://anarchitv.co/bt2.m3u8
+#EXTINF:-1 group-title="Sport",BT Sports EU HD[B][COLOR green] ספורט - [/COLOR][/B]
+http://80.243.189.26:81/miosptvbteu/index.m3u8
+#EXTINF:-1 group-title="Sport", Digi Sport 1 [B][COLOR green] ספורט - [/COLOR][/B]
+http://85.25.43.23:8080/hls/volex_02.m3u8
+#EXTINF:-1 group-title="Sport", Digi Sport 2 [B][COLOR green] ספורט - [/COLOR][/B]
+http://85.25.43.23:8080/hls/volex_03.m3u8
+#EXTINF:-1 group-title="Sport", Digi Sport 3 [B][COLOR green] ספורט - [/COLOR][/B]
+http://85.25.43.23:8080/hls/volex_04.m3u8
+#EXTINF:-1 group-title="Sport", Fox Sport 1 HD [B][COLOR green] ספורט - [/COLOR][/B]
+http://vurl.com/W6N5J
+#EXTINF:-1 group-title="Sport", Fox Sport 2 HD  [B][COLOR green] ספורט - [/COLOR][/B]
+http://vurl.com/XDOgW
+#EXTINF:-1 group-title="Sport", Fox Sport HD  [B][COLOR green] ספורט - [/COLOR][/B]
+https://miotvapp.singtel.com/VideoServer/GetLiveLeafIndex.aspx/5114_540p/playlist.m3u8?token=9&l=5114&v=H&m=&p=04
+port",NTV FUTBOL 1 [B][COLOR green] ספורט - [/COLOR][/B]
+http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/124/index.m3u8
+#EXTINF:-1 group-title="Sport",NTV FUTBOL 2 [B][COLOR green] ספורט - [/COLOR][/B]
+http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/530/index.m3u8
+#EXTINF:-1 group-title="Sport",NTV FUTBOL 3 [B][COLOR green] ספורט - [/COLOR][/B]
+http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/522/index.m3u8
+#EXTINF:-1 group-title="Sport",NTV PLUS Sport [B][COLOR green] ספורט - [/COLOR][/B]
+http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/107/index.m3u8
+#EXTINF:-1 group-title="Sport",NTV Sport [B][COLOR green] ספורט - [/COLOR][/B]
+http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/123/index.m3u8
+#EXTINF:-1 group-title="Sport",Sport MAX [B][COLOR green] ספורט - [/COLOR][/B]
+http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
+#EXTINF:-1 group-title="Sport",NFL Super Bowl [B][COLOR green] ספורט - [/COLOR][/B]
+http://anarchitv.co/nfls.m3u8
+#EXTINF:-1 group-title="Sport",CBC Sport [B][COLOR green] ספורט - [/COLOR][/B]
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+#EXTINF:-1 group-title="Sport",Poker Central HD [B][COLOR green] ספורט - [/COLOR][/B]
+http://anarchitv.co/pokercentral.m3u8
+#EXTINF:-1 group-title="Sport",Premier Sport [B][COLOR green] ספורט - [/COLOR][/B]
+http://ipsatpro.com:8000/live/190337745188/19033774518873/513.ts
+#EXTINF:771 group-title="Sport" logo="http://anarchitv.co/TV/Logos/Sky%20sport%201.png" tvg-logo="Sky%20sport%201.png" channel-id="771" epg-id="771" ,Sky Sport 1 [B][COLOR green] ספורט - [/COLOR][/B]
+http://anarchitv.co/sky1.m3u8
+#EXTINF:772 group-title="Sport" logo="http://anarchitv.co/TV/Logos/Sky%20sport%202.png" tvg-logo="Sky%20sport%202.png" channel-id="772" epg-id="772" ,Sky Sport 2 [B][COLOR green] ספורט - [/COLOR][/B]
+http://anarchitv.co/sky2.m3u8
+#EXTINF:773 group-title="Sport" logo="http://anarchitv.co/TV/Logos/Sky%20sport%203.png" tvg-logo="Sky%20sport%203.png" channel-id="773" epg-id="773" ,Sky Sport 3 [B][COLOR green] ספורט - [/COLOR][/B]
+http://anarchitv.co/sky3.m3u8
+#EXTINF:774 group-title="Sport" channel-id="774" epg-id="774" logo="http://anarchitv.co/TV/Logos/Sky%20sport%204.png" tvg-logo="Sky%20sport%204.png" ,Sky Sport 4 [B][COLOR green] ספורט - [/COLOR][/B]
+http://anarchitv.co/sky4.m3u8
+#EXTINF:775 group-title="Sport" channel-id="775" epg-id="775" logo="http://anarchitv.co/TV/Logos/Sky%20sport%205.png" tvg-logo="Sky%20sport%205.png" ,Sky Sport 5 [B][COLOR green] ספורט - [/COLOR][/B]
+http://anarchitv.co/sky5.m3u8
+#EXTINF:0 group-title="Sport",FOX-SPORT [B][COLOR green] ספורט - [/COLOR][/B]
+http://motorsport.hopto.org:8080/
+#EXTINF:0 group-title="Sport",LiVE MOTOR SPORT [B][COLOR green] ספורט - [/COLOR][/B]
+http://motorsport.hopto.org:8081/
+#EXTINF:-1 group-title="Sport", NBA VERSUS HD [B][COLOR green] ספורט - [/COLOR][/B]
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1 group-title="Sport", NBC HD גולף [B][COLOR green] ספורט - [/COLOR][/B]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 group-title="Sport", Real Madrid TV [B][COLOR green] ספורט - [/COLOR][/B]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 group-title="Sport", Football Report [B][COLOR green] ספורט - [/COLOR][/B]
+http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
+
+###################################################################################################
+###################################################################################################
+
+#EXTINF:-1,BeinSport-Sd1
+http://iptv.am000.tv:8000/live/00008/00008/293.ts
+#EXTINF:-1,BeinSport-Sd2
+http://iptv.am000.tv:8000/live/00008/00008/294.ts
+#EXTINF:-1,BeinSport-Sd3
+http://iptv.am000.tv:8000/live/00008/00008/295.ts
+#EXTINF:-1,BeinSport-Sd4
+http://iptv.am000.tv:8000/live/00008/00008/296.ts
+#EXTINF:-1,BeinSport-Sd5
+http://iptv.am000.tv:8000/live/00008/00008/297.ts
+#EXTINF:-1,BeinSport-Sd6
+http://iptv.am000.tv:8000/live/00008/00008/298.ts
+#EXTINF:-1,BeinSport-Sd7
+http://iptv.am000.tv:8000/live/00008/00008/299.ts
+#EXTINF:-1,BeinSport-Sd8
+http://iptv.am000.tv:8000/live/00008/00008/300.ts
+#EXTINF:-1,BeinSport-Sd9
+http://iptv.am000.tv:8000/live/00008/00008/301.ts
+#EXTINF:-1,BeinSport-Sd10
+http://iptv.am000.tv:8000/live/00008/00008/302.ts
+#EXTINF:-1,EN:BeinSport-11
+http://iptv.am000.tv:8000/live/00008/00008/575.ts
+#EXTINF:-1,EN:BeinSport-12
+http://iptv.am000.tv:8000/live/00008/00008/577.ts
+#EXTINF:-1,FR:BEINSPORT-13
+http://iptv.am000.tv:8000/live/00008/00008/632.ts
+#EXTINF:-1,FR:BEINSPORT-14
+http://iptv.am000.tv:8000/live/00008/00008/633.ts
+#EXTINF:-1,FR:BEINSPORT-15
+http://iptv.am000.tv:8000/live/00008/00008/634.ts
+#EXTINF:-1,FR:BEINSPORT-16
+http://iptv.am000.tv:8000/live/00008/00008/635.ts
+#EXTINF:-1,BeinSport-HD1
+http://iptv.am000.tv:8000/live/00008/00008/1.ts
+#EXTINF:-1,BeinSport-HD2
+http://iptv.am000.tv:8000/live/00008/00008/2.ts
+#EXTINF:-1,BeinSport-HD3
+http://iptv.am000.tv:8000/live/00008/00008/3.ts
+#EXTINF:-1,BeinSport-HD4
+http://iptv.am000.tv:8000/live/00008/00008/4.ts
+#EXTINF:-1,BeinSport-HD5
+http://iptv.am000.tv:8000/live/00008/00008/5.ts
+#EXTINF:-1,BeinSport-HD6
+http://iptv.am000.tv:8000/live/00008/00008/6.ts
+#EXTINF:-1,BeinSport-HD7
+http://iptv.am000.tv:8000/live/00008/00008/7.ts
+#EXTINF:-1,BeinSport-HD8
+http://iptv.am000.tv:8000/live/00008/00008/8.ts
+#EXTINF:-1,BeinSport-HD9
+http://iptv.am000.tv:8000/live/00008/00008/9.ts
+#EXTINF:-1,BeinSport-HD10
+http://iptv.am000.tv:8000/live/00008/00008/10.ts
+#EXTINF:-1,AD-Sports1
+http://iptv.am000.tv:8000/live/00008/00008/89.ts
+#EXTINF:-1,AD-SPORTS2
+http://iptv.am000.tv:8000/live/00008/00008/114.ts
+#EXTINF:-1,AD-SPORT3
+http://iptv.am000.tv:8000/live/00008/00008/90.ts
+#EXTINF:-1,AD-SPORT4
+http://iptv.am000.tv:8000/live/00008/00008/534.ts
+#EXTINF:-1,Al-Fajer
+http://iptv.am000.tv:8000/live/00008/00008/110.ts
+#EXTINF:-1,beINSports-fr1
+http://iptv.am000.tv:8000/live/00008/00008/16.ts
+#EXTINF:-1,beINSports-fr2
+http://iptv.am000.tv:8000/live/00008/00008/17.ts
+#EXTINF:-1,BEINSPORTS-FR3
+http://iptv.am000.tv:8000/live/00008/00008/566.ts
+#EXTINF:-1,Alkas-1
+http://iptv.am000.tv:8000/live/00008/00008/73.ts
+#EXTINF:-1,Alkas-2
+http://iptv.am000.tv:8000/live/00008/00008/405.ts
+#EXTINF:-1,Alkas-3
+http://iptv.am000.tv:8000/live/00008/00008/104.ts
+#EXTINF:-1,Alkas-4
+http://iptv.am000.tv:8000/live/00008/00008/315.ts
+#EXTINF:-1,DUBAISPORT1
+http://iptv.am000.tv:8000/live/00008/00008/648.ts
+#EXTINF:-1,DubaiSport-3
+http://iptv.am000.tv:8000/live/00008/00008/646.ts
+#EXTINF:-1,DUBAISPORT-4
+http://iptv.am000.tv:8000/live/00008/00008/647.ts
+#EXTINF:-1,EUROSPORT-eng
+http://iptv.am000.tv:8000/live/00008/00008/357.ts
